@@ -20,7 +20,9 @@ body {
 }
 
 #content {
-  padding: 20px;
+  padding: 30px;
+  border-style: groove;
+  border-color: black;
   background: rgba(255,255,255,.85);
 }
 
